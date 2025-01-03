@@ -1,0 +1,2 @@
+Hello this is chris saying hi from this side. What's on your mind
+The only way to exit with this text reflected to the other side is by pressing ctrl + t.
