@@ -81,6 +81,9 @@ Contains XML files and their backups.
 
 ### list
 A list of XML files.
+### AWS_Scripts
+
+This section contains scripts for managing AWS resources
 
 ### list1
 A list of XML files.
